@@ -1,4 +1,4 @@
-# Family Tree Database Project Report
+# Family Tree Database
 
 ## Project Description
 
